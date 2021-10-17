@@ -25,7 +25,7 @@ import java.util.Collections;
 /**
  * Redis 分布式锁
  *
- * @author lw1243925457
+ * @author Siho
  */
 public class RedisLock {
 
